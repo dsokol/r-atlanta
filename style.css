@@ -1,0 +1,152 @@
+#header {
+    background-position: 0px 25px;
+    font-size: 100%;
+    background-repeat:no-repeat;
+    border-bottom: 1px solid #cd1141;
+    position: relative;
+    z-index: 99;
+}
+
+.pagename a {
+    color: #5f99cf;
+}
+
+/* This concept was originally developed by redditor jamt9000 */
+/* It was most recently lifted from /r/twincitiessocial/ */
+/* this positions new tabs up top, using text from the sidebar (specifically, ordered links) */
+/* CSS common to both rows of stickies */
+.titlebox .usertext-body .md ol li a {
+    border: 1px solid #fff;
+    background-color: #002363;
+    padding: 2px 6px 2px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: small
+    }
+.titlebox .usertext-body .md ol li a:hover {
+    border-color: #000000;
+    background-color: #B50128
+    }
+.titlebox form {
+    position: static
+    }
+.titlebox .usertext-body .md ol {
+    list-style: none;
+    position: absolute;
+    z-index: 200;
+    margin: 0;
+    padding: 0;
+    display: table
+    }
+.titlebox .usertext-body .md ol li {
+    display: inline;
+    margin: 0 3px
+    }
+
+/* Code that differs between the two rows */
+.titlebox .usertext-body .md ol {
+    top: 25px;
+    left: 353px;
+    /* change above value to left: 209px if it's busted - dsokol */
+    }
+.titlebox .usertext-body .md ol ~ ol {
+    /* CSS hack by ironiridis; please flog him if it's busted */
+    top: 53px;
+    left: 339px;
+    /* the above widening may also bust this.  sorry guys :( - dsokol */
+    }
+/* rounded tabs */
+.tabmenu {
+    margin-left: 10px
+    }
+.tabmenu li a {
+    -moz-border-radius-topright: 9px;
+    -webkit-border-top-right-radius: 9px;
+    -moz-border-radius-topleft: 9px;
+    -webkit-border-top-left-radius: 9px;
+    background-color: #5f99cf;
+    color: #E4F0FB
+    }
+/* Top Bar across the screen */
+#sr-header-area {
+    padding: 3px 0px 3px 5px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-transform: uppercase;
+    border-bottom: 0px solid #002363;
+    font-size: 90%;
+    }
+/* Header Top Right Area */
+#header-bottom-right {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    padding: 4px
+    }
+
+
+/* the text after the number of readers. */
+div.titlebox span.word {
+    display: none
+    }
+div.titlebox span.number:after {
+    content: " Atlantans"
+    }
+.linkflair-Trivia {
+     background-color: #E6F2E6;
+     color: green   
+}
+.linkflair-MeetUp {
+     background-color: #E6F2E6;
+     color: green   
+}
+
+
+
+/*================ HOUSING LOOKING FLAIR =======================*/
+.linkflair-Looking .linkflairlabel {
+    max-width: 100%;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 1px 1px 1px 1px;
+    text-transform: uppercase;
+    margin-left: 0em;
+ /*   background: #fafafa url(%%check%%) 3px 2px no-repeat; */
+    color: #2F4F4F;
+    border-color: #ddd
+    }
+
+
+/*================ HOUSING FOR RENT FLAIR =======================*/
+.linkflair-Rent .linkflairlabel {
+    max-width: 100%;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 1px 1px 1px 1px;
+    text-transform: uppercase;
+    margin-left: 0em;
+ /*   background: #fafafa url(%%check%%) 3px 2px no-repeat; */
+    color: #2F4F4F;
+    border-color: #ddd
+    }
+
+
+/*================ CIRCLE JERK EXPANDED FLAIR =======================*/
+.linkflair-Jerk .linkflairlabel {
+    max-width: 100%;
+    }
+
+
+/*================ ATLANTA ROOMS FOR RENT EXPANDED FLAIR =======================*/
+.linkflair-Rooms .linkflairlabel {
+    max-width: 100%;
+    }
+
+
+/*================ ROOM MATE EXPANDED FLAIR =======================*/
+.linkflair-Roommate .linkflairlabel {
+    max-width: 100%;
+    }
