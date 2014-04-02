@@ -2,7 +2,7 @@ Good news everyone! We're taking [your suggestions](/r/Atlanta/comments/wi3gw/wh
 
 **How do I make sure to be notified of reddit meetups?**
 
-Search r/atlanta for the word 'meetup' every week or so. Sometimes there are spur-of-the-moment meetups that happen that night, and we hope that people organizing such flash meets post also on our [Facebook page](http://www.facebook.com/atlantaredditors) to increase awareness.  If you use an RSS reader to subscribe to r/atlanta, this will help.
+Search r/atlanta for the word 'meetup' every week or so. Sometimes there are spur-of-the-moment meetups that happen that night, and we hope that people organizing such flash meets post also on our [Facebook page](http://www.facebook.com/atlantaredditors) to increase awareness.  If you use an RSS reader to subscribe to r/atlanta, this will help.  There is also a facebook group for that kind of thing.
 
 **I'm new here. Where should I go out to eat/drink/do things?**
 
