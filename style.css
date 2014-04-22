@@ -137,7 +137,7 @@
   }
 
   #header-bottom-left {
-    background: url(%%AtlantaSkylineMay%%) center bottom;
+    background: url(%%BannerImage%%) center bottom;
     height: 140px;
   }
 
@@ -177,7 +177,7 @@
   }
 
   .pagename a {
-    background: url(%%AtlantaWords%%);
+    background: url(%%BannerWords%%);
     margin-left: 152px;
     margin-top:50px;
     height: 70px;
