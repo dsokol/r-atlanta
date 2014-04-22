@@ -1,6 +1,6 @@
+  
+
   /*AMA Green Tweak and announcement bar */
-
-
   .md { overflow:hidden;}
 
   .md > ul:nth-child(4) > li:nth-child(1) > p:nth-child(1) > strong:nth-child(1) {background-color:#eeeeee; }
@@ -308,22 +308,6 @@
   }
 
 
-  /* change post instructions to match policy */
-
-  #link-desc:after {
-    display: block;
-    content: "OH HIAIAIAI";
-    font-weight: bold;
-  }
-
-  #text-desc:after {
-    display: block;
-    content: "OH HAHAHAH2";
-    font-weight: bold;
-    color: red;
-    font-size: 130%;
-  }
-
   /* Sidebar */
 
   div.titlebox {  
@@ -608,7 +592,6 @@
     min-width: 75px; 
     height: 75px;
   }
-
 
 
 
