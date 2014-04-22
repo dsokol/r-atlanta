@@ -1,5 +1,23 @@
 Good news everyone! We're taking [your suggestions](/r/Atlanta/comments/wi3gw/what_belongs_in_the_ratlanta_faq/) on what to put in the FAQ, and you can add your own right now in [TrueFAQ](/r/atlanta/w/truefaq). So please [suggest things!](/r/Atlanta/comments/wi3gw/what_belongs_in_the_ratlanta_faq/)
 
+To start, we have a few rules, they are as follows:  
+
+**Rules**
+
+* **SITEWIDE [RULES](/rules)**
+  * Don't [spam](/wiki/faq#wiki_what_constitutes_spam.3F).
+  * Don't ask for votes or engage in [vote manipulation](/wiki/faq#wiki_what_constitutes_vote_cheating_and_vote_manipulation.3F).
+  * Don't post [personal information](/wiki/faq#wiki_is_posting_personal_information_ok.3F).
+  * No [child pornography](http://www.missingkids.com/missingkids/servlet/PageServlet?PageId=1504) or [sexually suggestive content featuring minors](/r/blog/comments/pmj7f/a_necessary_change_in_policy/).
+  * Don't break the site or do anything that interferes with normal use of the site.
+* **r/Atlanta rules**
+   * Don't be a mean or contemptible person.
+   * No personal attacks.
+   * RE: Rule 3: See [Missing Persons](/r/missingpersons/about/sidebar).
+   * Please have _some_ relation to Atlanta with your posts. [example bad post](/r/atlanta/comments/18k17f)
+   * Jobs go here: /r/atljobs
+   * Don't use URL shorteners (tinyurl, etc), your post will be spammed. We can't help this.
+
 **How do I make sure to be notified of reddit meetups?**
 
 Search r/atlanta for the word 'meetup' every week or so. Sometimes there are spur-of-the-moment meetups that happen that night, and we hope that people organizing such flash meets post also on our [Facebook page](http://www.facebook.com/atlantaredditors) to increase awareness.  If you use an RSS reader to subscribe to r/atlanta, this will help.  There is also a facebook group for that kind of thing.
@@ -33,3 +51,5 @@ Write up your thoughts, look at ArkadyF's guide above if you want a good example
 **How do I request a Neighborhood Name (flair) next to my user name on posts?**
 
 First, Subscribe to /r/Atlanta.  Next, check the box that says "Show my flair on this Reddit" .  Last, Edit what you want your flair to say.
+
+* [RIP FunServ](/r/Atlanta/comments/1josi4) (by [hayzucristo](/u/hayzucristo))
