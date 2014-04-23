@@ -594,5 +594,10 @@
     height: 75px;
   }
 
+  /* RES Pin Subreddit Bar tweak to force What To Do section down a few pixels */
+  .pinHeader-sub #header-bottom-left,
+  .pinHeader-subanduser #header-bottom-left {
+      margin-top: 0;
+  }
 
 
