@@ -511,7 +511,7 @@
   }
 
   /* Sidebar Social */
-  .md a[href="http://on.fb.me/atlreddit"],
+  .md a[href="https://www.facebook.com/groups/RedditAtlanta/"],
   .md a[href="https://plus.google.com/communities/114019472912133790446"],
   .md a[href="https://twitter.com/atlredditors"],
   .md a[href="http://www.meetup.com/reddit/-30301/"],
@@ -523,7 +523,7 @@
       padding-top:8px;
       margin-left:18px;
   }
-  .md a[href="http://on.fb.me/atlreddit"]{
+  .md a[href="https://www.facebook.com/groups/RedditAtlanta/"]{
     text-indent: 40px; 
     background-position: 0 -144px; 
     min-width: 35px; 
