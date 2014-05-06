@@ -137,7 +137,7 @@
   }
 
   #header-bottom-left {
-    background: url(%%BannerImage%%) center bottom;
+    background: url(%%BannerImage%%) center bottom / cover;
     height: 140px;
   }
 
