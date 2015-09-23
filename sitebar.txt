@@ -1,29 +1,30 @@
-######[What To Do](http://www.atltodo.com/)  [FAQ](http://www.reddit.com/r/atlanta/w/faq) - Upcoming Events: [420 Fest](http://sweetwater420fest.com) - [Inman Park Fest](http://inmanparkfestival.org) - [Shaky Knees](http://shakyknees.com)
-
+######[What To Do](http://www.atltodo.com/)  [FAQ](/r/atlanta/w/faq) [Jobs](/r/atljobs/new) [IRC](https://kiwiirc.com/client/irc.snoonet.org/?nick=snoo_?#atlanta)
 
 #Welcome To Atlanta
 To help get you started, we created an *[FAQ](/r/atlanta/w/faq)* to explain all the rules, and help you get the lay of the land.  
 
 * [Most recent Atlanta-related posts](/u/ratlanta/m/atl/new?sort=new)
-* [r/Atlanta Wiki](http://www.reddit.com/r/Atlanta/wiki/index)
+* [r/Atlanta Wiki](/r/Atlanta/wiki/index)
 * [Full list](/r/atlanta/w/subs) of Atlanta subreddits
 * [Full list](/r/georgia/about/sidebar) of [r/Georgia](/r/georgia) subreddits
+* Header image of Atlanta by [Richard Cawood](http://www.richardcawood.com)
+* Sidebar image of the Fox provided by Flickr user [Anthony W.](https://www.flickr.com/photos/123752228@N06/)
 
 #Social Channels
 
-|[Facebook](https://www.facebook.com/groups/RedditAtlanta/)|[Google+](https://plus.google.com/communities/114019472912133790446)|
+|[Facebook](https://www.facebook.com/groups/RedditAtlanta/?sidebar)|[Google+](https://plus.google.com/communities/114019472912133790446?sidebar)|
 |-------------|-------------|
-|[Meetups](http://www.meetup.com/reddit/-30301/) |[Twitter](https://twitter.com/atlredditors)||
-
+|[Meetups](http://reddit.meetup.com/cities/us/ga/atlanta/) |[Twitter](https://twitter.com/atlredditors?sidebar)||
 
 
 
 #Atlanta Quicklinks
 * [Beer/Homebrew] (/r/atlbeer)
 * [Buy/Sell/Trade](/r/AtlantaBarters/new?sort=new)
-* [Education/Schools](/u/ratlanta/m/gaedu)
+* [Education/Schools](/u/ratlanta/m/gaedu/new)
 * [Food Specials](/r/Atlanta/comments/1eacqn)
 * [Jobs](/r/atljobs/new)
+* [Music](/r/atlantamusic)
 * [Neighborhoods](/u/ratlanta/m/atlhoods/new)
 * [Redditor 4 Redditor](/r/atlantar4r/new)
 * [OTP](/r/georgia)
@@ -34,10 +35,9 @@ To help get you started, we created an *[FAQ](/r/atlanta/w/faq)* to explain all 
 |[](/r/braves)| [](/r/falcons)|
 |--------|-------|
 |[](/r/AtlantaHawks)| [](/r/atlantasilverbacks)|
-|[View All](/r/atlanta/w/subs#wiki_sports_and_activities) | |
+| [View All](/r/atlanta/w/subs#wiki_sports_and_activities) | |
  
  
+
 #Analytics
-[Traffic stats](/r/Atlanta/about/traffic/)
-
-
+* [Traffic stats](/r/Atlanta/about/traffic/)
