@@ -7,8 +7,12 @@
 
 
 
-  /*ASK ATL STUFF */
-  .md > h6:nth-child(1) > a:nth-child(1) {
+  /* BLOCKS UP TOP */
+  .md > h6 { text-decoration: inherit; }
+  .md > h6:nth-child(1) > a:nth-child(1)
+  ,.md > h6:nth-child(1) > a:nth-child(2)
+  ,.md > h6:nth-child(1) > a:nth-child(3)
+  ,.md > h6:nth-child(1) > a:nth-child(4)  {
     color: white!important;
     font-weight: bold;
     background-color: #369;
@@ -17,16 +21,9 @@
     border-top: 1px solid #fff;
   }
 
-  .md > h6:nth-child(1) > a:nth-child(2) {
-    color: white!important;
-    font-weight: bold;
-    background-color: #369;
-    padding: 4px 5px;
-    border-bottom: 3px solid #fff;
-    border-top: 1px solid #fff;
-  }
-
-  .md > h6:nth-child(1) > a:nth-child(2):hover {
+  .md > h6:nth-child(1) > a:nth-child(2):hover
+ ,.md > h6:nth-child(1) > a:nth-child(3):hover
+ ,.md > h6:nth-child(1) > a:nth-child(4):hover {
     color: #feffff !important;
     font-weight: bold;
     background-color: #D60D39;
@@ -35,7 +32,8 @@
     border-top: 1px solid #fff;
   }
 
-  .md > h6:nth-child(1) > a:nth-child(2):active {
+  .md > h6:nth-child(1) > a:nth-child(2):active
+ ,.md > h6:nth-child(1) > a:nth-child(3):active  {
     color: white !important;
     font-weight: bold;
     background-color: #369;
@@ -52,8 +50,6 @@
   .md > h6:nth-child(1) > a:hover {
     color: #D60D39!important;
   }
-
-
 
 
 
@@ -123,7 +119,6 @@
   font-weight:bold;
   }
 
-
   .md > h6:nth-child(1) > a:nth-child(2) {
     color: white!important;
   }
@@ -137,7 +132,7 @@
   }
 
   #header-bottom-left {
-    background: url(%%BannerImage%%) center bottom / cover;
+    background: url(%%AtlantaHeader4%%) center bottom / cover;
     height: 140px;
   }
 
@@ -166,7 +161,7 @@
   #header-bottom-right {
     background: white;
   }
-
+ /* Hiding the Snoo */
   #header-img {
     position: absolute;
     bottom: 0;
@@ -178,9 +173,9 @@
   }
 
   .pagename a {
-    background: url(%%BannerWords%%);
+    background: url(%%AtlantaWords%%);
     margin-left: 152px;
-    margin-top:50px;
+    margin-top:70px;
     height: 70px;
     width: 428px;
     background-repeat: no-repeat;
@@ -201,6 +196,8 @@
     margin-left: 4px;
   }
 
+  
+
   /* entry - give gold & report */
   .entry .buttons li a.give-gold {
     color: #a96;
@@ -216,11 +213,11 @@
   }
 
 
-  /* Sidebar */
+  /* Sidebar - remember to edit the first number under padding to the height of the image */
 
   div.titlebox {  
-     background: url(%%TitleBoxImage%%) no-repeat;
-     padding: 175px 2px 2px 2px;
+     background: url(%%FoxTitleBoxImage%%) no-repeat;
+     padding: 220px 2px 2px 2px;
   }
 
 
@@ -341,6 +338,9 @@
     color: white;
     height: 25px;
     padding-top: 4px;
+    font-size: 150%;
+    font-weight: bold;
+
   }
 
   /* Extra submit button for events */
@@ -406,6 +406,10 @@
     margin: 0px;
   }
 
+  .content .md table {
+   width:100% !important;
+  }
+
   .md th {
     font-weight:normal;
     border:none;
@@ -418,11 +422,10 @@
   }
 
   /* Sidebar Social */
-  .md a[href="https://www.facebook.com/groups/RedditAtlanta/"],
-  .md a[href="https://plus.google.com/communities/114019472912133790446"],
-  .md a[href="https://twitter.com/atlredditors"],
-  .md a[href="http://www.meetup.com/reddit/-30301/"],
-  .md a[href="http://redditgifts.com/meetups/r/atlanta/"]{
+  .md a[href="https://www.facebook.com/groups/RedditAtlanta/?sidebar"],
+  .md a[href="https://plus.google.com/communities/114019472912133790446?sidebar"],
+  .md a[href="https://twitter.com/atlredditors?sidebar"],
+  .md a[href="http://reddit.meetup.com/cities/us/ga/atlanta/"]{
       display: inline-block;
       background: url(%%social-sprites%%) no-repeat top left;
       vertical-align: text-bottom;
@@ -430,43 +433,37 @@
       padding-top:8px;
       margin-left:18px;
   }
-  .md a[href="https://www.facebook.com/groups/RedditAtlanta/"]{
+  .md a[href="https://www.facebook.com/groups/RedditAtlanta/?sidebar"]{
     text-indent: 40px; 
     background-position: 0 -144px; 
     min-width: 35px; 
     height: 35px;
   }
-  .md a[href="https://plus.google.com/communities/114019472912133790446"]{
+  .md a[href="https://plus.google.com/communities/114019472912133790446?sidebar"]{
     text-indent: 40px; 
     background-position: 0 -96px; 
     min-width: 35px; 
     height: 35px;
   }
-  .md a[href="https://twitter.com/atlredditors"]{
+  .md a[href="https://twitter.com/atlredditors?sidebar"]{
     text-indent: 40px; 
     background-position: 0 -192px; 
     min-width: 35px; 
     height: 35px;
   }
-  .md a[href="http://www.meetup.com/reddit/-30301/"]{
+  .md a[href="http://reddit.meetup.com/cities/us/ga/atlanta/"]{
     text-indent: 40px; 
     background-position: 0 0px; 
-    min-width: 35px; 
-    height: 35px;
-  }
-  .md a[href="http://redditgifts.com/meetups/r/atlanta/"]{
-    text-indent: 40px; 
-    background-position: 0 -48px; 
     min-width: 35px; 
     height: 35px;
   }
 
 
   /* Sidebar Sports */
-  .md a[href="/r/braves"],
-  .md a[href="/r/falcons"],
-  .md a[href="/r/AtlantaHawks"],
-  .md a[href="/r/atlantasilverbacks"]{
+  .side .md a[href="/r/braves"],
+  .side .md a[href="/r/falcons"],
+  .side .md a[href="/r/AtlantaHawks"],
+  .side .md a[href="/r/atlantasilverbacks"]{
       display: inline-block;
       background: url(%%sport-sprites%%) no-repeat top left;
       vertical-align: text-bottom;
@@ -476,35 +473,42 @@
       margin-left:32px;
     
   }
-  .md a[href="/r/braves"]{
+  .side .md a[href="/r/braves"]{
     text-indent: 40px; 
     background-position: 0 0px; 
     min-width: 75px; 
     height: 75px;
   }
-  .md a[href="/r/falcons"]{
+  .side .md a[href="/r/falcons"]{
     text-indent: 40px; 
     background-position: 0 -91px; 
     min-width: 75px; 
     height: 75px;
   }
-  .md a[href="/r/AtlantaHawks"]{
+  .side .md a[href="/r/AtlantaHawks"]{
     text-indent: 40px; 
     background-position: 0 -175px; 
     min-width: 75px; 
     height: 75px;
   }
-  .md a[href="/r/atlantasilverbacks"]{
+  .side .md a[href="/r/atlantasilverbacks"]{
     text-indent: 40px; 
     background-position: 0 -260px; 
     min-width: 75px; 
     height: 75px;
   }
 
-  /* RES Pin Subreddit Bar tweak to force What To Do section down a few pixels */
+ /* RES Pin Subreddit Bar tweak to force What To Do section down a few pixels */
+
   .pinHeader-sub #header-bottom-left,
   .pinHeader-subanduser #header-bottom-left {
       margin-top: 0;
   }
+
+  /* Events Post Styling */
+  
+  .linkflair-events .linkflairlabel { display: none; }
+  
+  .linkflair-events .title, .linkflair-events .stickied-tagline { color: blue !important; }
 
 
